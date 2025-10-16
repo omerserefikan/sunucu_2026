@@ -1,0 +1,22 @@
+{
+  "name": "sunucu_2026",
+  "version": "1.0.0",
+  "description": "sunucu tabanlı programlama dersi için",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omerserefikan/sunucu_2026.git"
+  },
+  "keywords": [
+    "sunucu"
+  ],
+  "author": "ömer şeref ikan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omerserefikan/sunucu_2026/issues"
+  },
+  "homepage": "https://github.com/omerserefikan/sunucu_2026#readme"
+}
