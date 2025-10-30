@@ -20,3 +20,4 @@ mysql= veritabanı yönetim sistemi
 *işletim sistemine gerek yok
 *apache gerek yok nodejs web sunucusu gibi hareket edebiliyor
 *php gerek yok 
+
